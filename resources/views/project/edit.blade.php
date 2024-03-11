@@ -5,7 +5,7 @@
                     {{ __('Projects') }}
                 </a>
                 <a href="#" class="{{ __('Edit Project') }}">
-                    {{ __('-> Edit') }}
+                    {{ __('.Edit') }}
             </a>
         </h2>
     </x-slot>

@@ -35,7 +35,10 @@ This is a simple task manager application built with Laravel. It allows users to
 4. Install JavaScript dependencies with npm:
 
     ```bash
-    npm install
+    run npm install
+
+    run npm run dev when on local or in development
+    run npm run build fpr production
     ```
 
 5. Create a copy of the `.env.example` file and rename it to `.env`. Update the database and other configuration settings as needed:

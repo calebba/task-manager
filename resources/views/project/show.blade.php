@@ -6,7 +6,7 @@
                     {{ __('Projects') }}
                 </a>
                 <a href="#" class="{{ __('Edit Project') }}">
-                    {{ __('->Details') }}
+                    {{ __('.Details') }}
                 </a>
             </p>
         </h2>
